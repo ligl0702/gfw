@@ -1,6 +1,8 @@
 # gwf
 增加流媒体视频域名列表
+
 使用条件和方法
+
 1、你使用的是L大的LEDE固件，内部有SSR PLUS+这个插件
 2、将gwf.list覆盖到路由器/etc/config/
 
